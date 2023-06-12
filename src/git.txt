@@ -1,0 +1,38 @@
+Git is tool that helps us with different problems
+
+Problems :
+
+1. Code sharing between different device.
+2. Code merging when multiple developers are working on same project but on
+different modules.
+3. Accidental deletion of the codes and files.
+4. Code reversal is very difficult for large projects.
+5. History tracking is very difficult.
+
+
+
+
+1 (major) .0  . 0 (minor)
+1.0.1
+
+2.0.0
+
+Git Commands :
+
+# For the first time setup
+1. git init
+2. git add <File name> or git add .
+3. git commit -am "<Message>"
+4. git remote add origin <ssh-url>
+5. git push origin <branch-name>
+
+# Git is already initialized or after first commit and push
+1. git add .
+2. git commit -am "<Message>"
+3. git push origin <branch-name>
+
+
+#Informative Commands
+1. git status
+2. git branch
+3. git log

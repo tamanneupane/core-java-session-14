@@ -1,0 +1,8 @@
+1. The class whose object cannot be created. (Math.java)
+2. The class where new keyword along with constructor is used to create the object
+(Date.java)
+3. The class whose object is created using (static) function. (LocalDate.java,
+LocalDateTime.java, Calendar.java)
+4. The class whose object is created in unique way (Neither constructor nor function
+is used) => String.java
+

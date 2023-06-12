@@ -1,0 +1,8 @@
+- Class is blue print
+- With the help of that blueprint we can create as many number of objects
+we want to create.
+
+What does a class hava?
+1. States/Fields
+2. Constructors (Mandatory)
+3. Behaviours/Functions/Method
